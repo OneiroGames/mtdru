@@ -1,8 +1,5 @@
-########################################################
-###       Copyright (c) 2020-2022 ONEIRO GAMES       ###
-###                 Version: 1.0.0                   ###
-###           Description: MTDRU PROLOGUE            ###
-########################################################
+# Copyright (c) Oneiro Games. All Right Reserved.
+# Licensed under the GPL License, Version 3.0.
 
 label mtdru_prologue:
     $ persistent.sprite_time = "night"
