@@ -1,8 +1,5 @@
-########################################################
-###       Copyright (c) 2020-2022 ONEIRO GAMES       ###
-###                 Version: 1.0.0                   ###
-###             Description: MTDRU DAY 1             ###
-########################################################
+# Copyright (c) Oneiro Games. All Right Reserved.
+# Licensed under the GPL License, Version 3.0.
 
 label mtdru_day1:
     $ new_chapter(1, u"ДВНР\nДень 1")
