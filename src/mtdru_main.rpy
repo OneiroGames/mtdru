@@ -1,4 +1,4 @@
-# Copyright (c) Oneiro Games. All Right Reserved.
+# Copyright (c) Oneiro Games. All Rights Reserved.
 # Licensed under the GPL License, Version 3.0.
 
 init python:
